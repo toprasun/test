@@ -1,0 +1,1 @@
+mkdir mysite && cd mysite git init touch README.md git add README.md git commit -m "Initial commit."
